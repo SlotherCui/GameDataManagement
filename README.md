@@ -15,7 +15,8 @@
 
 ## 界面展示
 
-### 1. 登录界面
+### 1. 登录界面  
+![登录界面](https://github.com/SlotherCui/GameDataManagement/blob/master/showimg/图片1.png)
 ### 2. 游戏展示界面
 ### 3. 详情界面
 ### 4. 数据查询
