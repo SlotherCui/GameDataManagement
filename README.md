@@ -18,8 +18,11 @@
 ### 1. 登录界面  
 ![登录界面](https://github.com/SlotherCui/GameDataManagement/blob/master/showimg/图片1.png)
 ### 2. 游戏展示界面
+![游戏展示界面](https://github.com/SlotherCui/GameDataManagement/blob/master/showimg/图片3.png)
 ### 3. 详情界面
+![详情界面](https://github.com/SlotherCui/GameDataManagement/blob/master/showimg/图片2.png)
 ### 4. 数据查询
+![数据查询](https://github.com/SlotherCui/GameDataManagement/blob/master/showimg/图片4.png)
 
 ## 完整Web数据管理项目
 本项目是山东大学软件学院Web数据管理课程设计完整项目的一部分，整体项目包含游戏数据爬取项目，游戏数据前端web项目，以及游戏数据后端项目。本项目有很好的学习价值运用，主要技术特色和应用：
